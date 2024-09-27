@@ -2,7 +2,7 @@
 <ul>
     <li>Project Created By  : HASHIM PK  </li>
     <li>Project Created 0n  : 26/09/2024 to 27/09/2024 </li>
-    <li>Project Duration    : 6 to 7 hours  </li>
+    <li>Project Duration    : 5 to 7 hours  </li>
     <li>Using Technology    : Laravel 10.48.16 , Mysql ,Ajax, Jquery  And Boostrap 4   </li>
 </ul>
 <h2 style="font-weight: bold";> To Do App   </h2>
