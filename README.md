@@ -42,20 +42,24 @@ Real-time event broadcasting.</p>
 This software is used by product details and display.This software is user for <span style="color : green">ContactPoint 360</span>  Machine Test Purpose Make Sure you have Xampp,Largon or Wams Server if using windows OS and LAMS if using Linux Make Sure Above PHP 8.1 </p>
 <h2 style="color:red">How To Work this Project : </h2>
 <ul>
-    <li>Step 1 : Clone the Project Eg : git clone https://github.com/hashimpk07/contactpoint360.git </li>
+    <li>Step 1 : Clone the Project Eg : git clone https://github.com/hashimpk07/todo.git </li>
     <li>Step 2: added .env file</li>
-    <li>step 3: Database settings in .env file eg : DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=conatct360  DB_USERNAME=root DB_PASSWORD= </li>
-    <li>Step 4: run command or composer update eg : composer update </li>
+    <li>step 3: Database settings in .env file 
+        <p> eg : DB_CONNECTION=mysql </p>
+        <p> DB_HOST=127.0.0.1 DB_PORT=3306 </p>
+        <p> DB_DATABASE=todo  </p>
+        <p> DB_USERNAME=root </p>
+        <p> DB_PASSWORD= </p>
+    </li>
+    <li>Step 4: run command or composer update eg : <b> composer update </b></li>
     <li>Step 5: Make Sure vendor file is created </li>
     <li>Step 6: Make sure the existing database</li>
-    <li>Step 7: run commnad or migrate file eg : php artisan migrate</li>
-    <li>step 8: run command php artisan serve</li>
+    <li>Step 7: run commnad or migrate file eg : <b> php artisan migrate </b> </li>
+    <li>step 8: run command  <b> php artisan serve </b> </li>
     <li>step 9: Get the Url , This Url open browser </li>
     <li>Step 10: Creae Registration , then login</li>
-    <li>Step 11: After each user form submission, every time an admin goes to mail through Laravel queue, this command works: php artisan queue:work  </li>
     <li>Step 12: Make sure the mail configuration in .env file </li>
-    <li>step 13: QUEUE_CONNECTION=database set in .env file</li>
-    <li>Step 14: Admin Port or url   :  base url  (or) baseUrl/login  eg :  http://127.0.0.1:8000 (or)  http://127.0.0.1:8000/login </li>
-    <li>Step 15: User Port or url   :  baseUrl/user  eg: http://127.0.0.1:8000/user </li>
+    <li>Step 14: To Do App local Port or url   http://127.0.0.1:8000 (or)  http://127.0.0.1:8000/login </li>
+   
 </ul>
 
