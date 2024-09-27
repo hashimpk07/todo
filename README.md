@@ -14,11 +14,10 @@
 <p>  Use a simple front-end framework (like Bootstrap) for styling. - Create a user-friendly interface for managing and sharing to-do tasks.
 </p>
 <h2 style="font-weight: bold";>About Application</h2>
-<p>The purpose of this interview task is to develop an application that utilizes dynamic forms in Laravel.</p>
+
 <ul>
     <li>Admin Login </li>
     <li>To Do App dashboard</li>
-    <li> Create ,Edit ,list ,delete to Do App  </li>
     <li> Create ,Edit ,list ,delete to Do App  </li>
     <li> Share Other User in To Do App  </li>
     <li> Sharable To Do App is Like unlike </li>
